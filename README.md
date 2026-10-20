@@ -1,21 +1,17 @@
 # LinuxJourney
 This repository describes my journey learning linux, and some DevOps skills
 
+
 ## Useful websites
 
-https://linuxupskillchallenge.org/ --> to learn Linux features
+- [Linux Upskill Challenge](https://linuxupskillchallenge.org/) — Learn Linux features
+- [ExplainShell](https://explainshell.com/) — Understand terminal commands
+- [OverTheWire Bandit](https://overthewire.org/wargames/bandit/) — Learn Linux basics
+- [LabEx](https://labex.io/learn) — Interactive Linux exercises
+- [SadServers](https://sadservers.com/) — Practice Linux troubleshooting
+- [TLDR Pages](https://tldr.sh/) — Simplified Linux command examples
+- [DevOps Labs](https://devopslabs.dev/dashboard) — Hands-on DevOps labs
 
-https://explainshell.com/ --> explains terminal commands
-
-https://overthewire.org/wargames/bandit/ --> a game to learn the basics of Linux
-
-https://labex.io/learn --> to learn the basics of Linux
-
-https://sadservers.com/ --> Learn Bash, Git, and Linux troubleshooting with hands-on exercises
-
-https://tldr.sh/ --> simplify the beloved man pages with practical examples.
-
-https://devopslabs.dev/dashboard --> Learn DevOps hands-on. Every room runs on its own disposable virtual machine.
 
 ## Useful commands
 
